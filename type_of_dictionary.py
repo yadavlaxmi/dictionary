@@ -1,2 +1,2 @@
-dict={"name":"swathi","age":20}
+dict={"name":"laxmi","age":20}
 print(type(dict))
